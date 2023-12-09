@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/justinsta624/MeetyourSVGMaker#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4",
     "jest": "^29.7.0"
   }
