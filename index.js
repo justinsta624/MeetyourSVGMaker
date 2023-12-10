@@ -1,9 +1,10 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
+const jest = require("jest")
 
 // TODO: shapes function; populate the logo.svg pursuant to answer from terminal
-const [circle, triangle, square] = require("./lib/shapes");
+const { circle, triangle, square } = require("./lib/shapes");
 
 // TODO: Class LogoMaker with a constructor function to set fixed/variable values for text and shape elements
 class LogoMaker {
