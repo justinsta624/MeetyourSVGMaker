@@ -1,7 +1,7 @@
 <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
 
-  <polygon points="0,150 250,150 200,0" fill="magenta" />
+<polygon points="150,10 275,160 25,160" stroke="black" stroke-width="5" fill="magenta"/>
 
-  <text x="150" y="125" font-size="60" text-anchor="middle" fill="indigo">SVG</text>
+<text x="150" y="120" font-size="60" text-anchor="middle" alignment-baseline="middle" fill="indigo">SVG</text>
 
 </svg>
