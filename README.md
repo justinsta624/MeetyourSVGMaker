@@ -1,11 +1,11 @@
-# Object-oriented Programming: SVG Logo Maker
+# ⭐ Object-oriented Programming: SVG Logo Maker ⭐
     
-  ![Contributor](https://img.shields.io/badge/Contributor-HanbyeolLee-purple)
-  [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
-  ![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
-  ![Test](https://img.shields.io/badge/Test-Jest-green)
-  ![Module](https://img.shields.io/badge/Module-FS-magenta)  
-  ![Installation](https://img.shields.io/badge/Installation-Inquirer-red)
+![Contributor](https://img.shields.io/badge/Contributor-HanbyeolLee-purple)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
+![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
+![Test](https://img.shields.io/badge/Test-Jest@29.7.0-green)
+![Module](https://img.shields.io/badge/Module-FileSystem-magenta)
+![Installation](https://img.shields.io/badge/Installation-Inquirer@8.2.4-red)
 
 ## Outcome
 
