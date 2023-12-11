@@ -1,6 +1,6 @@
 # Object-oriented Programming: SVG Logo Maker
     
-  ![Contributor](https://img.shields.io/badge/Contributor-Hanbyeol(Justin)Lee-purple)
+  ![Contributor](https://img.shields.io/badge/Contributor-HanbyeolLee-purple)
   [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
   ![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
   ![Test](https://img.shields.io/badge/Test-Jest-green)
@@ -32,7 +32,7 @@ Followings are the outcomes of the challenge 10:
 * Your application should use [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user.
 * To provide a link to a walkthrough video that demonstrates its functionality and passes all of the tests. </br>
   [Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
-* Include `triangle`, `circle`, and `square` classes: any common functionality and properties shared by the classes in a parent `Shape` class and use inheritance to reuse the code in the child classes.
+* Include `triangle`, `circle`, and `square` classes: any common functionality and properties shared by the classes in a parent `shapes` class and use inheritance to reuse the code in the child classes.
 
 ## User Story
 
