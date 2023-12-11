@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
-const jest = require("jest")
+const jest = require("jest");
 
 // TODO: shapes function; populate the logo.svg pursuant to answer from terminal
 const { circle, triangle, square } = require("./lib/shapes");
@@ -72,16 +72,23 @@ const init = () => {
 
     // Set text and shape elements in logoMaker
     logoMaker.setTextElement(TextLogo, TextColor);
+    let shape;
 
       switch (ShapeType) {
         case 'circle':
-            logoMaker.setShapeElement(new circle(), ShapeColor);
+            shape = new circle()
+            shape.setColor(ShapeColor)
+            logoMaker.setShapeElement(shape, ShapeColor);
             break;
         case 'triangle':
-            logoMaker.setShapeElement(new triangle(), ShapeColor);
+            shape = new triangle()
+            shape.setColor(ShapeColor)
+            logoMaker.setShapeElement(shape, ShapeColor);
             break;
         case 'square':
-            logoMaker.setShapeElement(new square(), ShapeColor);
+            shape = new square()
+            shape.setColor(ShapeColor)
+            logoMaker.setShapeElement(shape, ShapeColor);
             break;
     }
 
