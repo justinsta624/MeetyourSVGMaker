@@ -2,7 +2,7 @@
     
   ![Contributor](https://img.shields.io/badge/Contributor-Hanbyeol(Justin)Lee-purple)
   [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/MIT)
-  ![GitHubRepo](https://img.shields.io/badge/GitHubrepo-justinsta624-yellow)
+  ![GitHub](https://img.shields.io/badge/GitHub-justinsta624-yellow)
   ![Test](https://img.shields.io/badge/Test-Jest-green)
   ![Module](https://img.shields.io/badge/Module-FS-magenta)  
   ![Installation](https://img.shields.io/badge/Installation-Inquirer-red)
@@ -28,12 +28,11 @@ Followings are the outcomes of the challenge 10:
 
 * Build a Node.js command-line application takes in user-input to generate a logo and save it as an [SVG file](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics).
 * The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
-* Your application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests. </br>
-  Each shape class should be tested for a render() method that returns a string for the corresponding SVG file with the given shape color.
+* Your application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests: Each shape class should be tested for a render() method that returns a string for the corresponding SVG file with the given shape color.
 * Your application should use [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user.
 * To provide a link to a walkthrough video that demonstrates its functionality and passes all of the tests. </br>
   [Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
-* Include Triangle, Circle, and Square classes: any common functionality and properties shared from parent use inheritance to reuse the code in the child classes.
+* Include `triangle`, `circle`, and `square` classes: any common functionality and properties shared by the classes in a parent `Shape` class and use inheritance to reuse the code in the child classes.
 
 ## User Story
 
